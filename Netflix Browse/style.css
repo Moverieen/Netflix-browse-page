@@ -72,30 +72,29 @@ header .nav .logo{
 /*-----insert Profile images---------*/
 
 .profiles .box1{
-    background: url(/img/nabil.png);
+    background: url(img/nabil.png);
     background-size: cover;
 }
 
 .profiles .box2{
-    background: url(/img/imane.png);
+    background: url(img/imane.png);
     background-size: cover;
 }
 
 .profiles .box3{
-    background: url(/img/Oussama.png);
+    background: url(img/Oussama.png);
     background-size: cover;
 }
 
 
 .profiles .box4{
-    background: url(/img/Ghizlane.png);
+    background: url(img/Ghizlane.png);
     background-size: cover;
 }
 
 .profiles .box5{
-    background: url(/img/jeunesse.png);
+    background: url(img/jeunesse.png);
     background-size:cover;
-
 }
 
 
